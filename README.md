@@ -1,6 +1,6 @@
 # Crypto-Wallet-Bruteforcer
 
-For software contact me on telegram `t.me/the_onlyalex`
+For software contact me on telegram `t.me/cwb_guyNick`
 
 ## Preview
 <img src="assets/preview_1.png" width="400" />
